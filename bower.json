@@ -1,0 +1,21 @@
+{
+  "name": "modern-javascript-quiz-josephkane",
+  "description": "## Setup",
+  "main": "index.js",
+  "authors": [
+    "Joseph Kane <josephckane@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nss-day-cohort-13/modern-javascript-quiz-josephkane",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dist/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
